@@ -1,0 +1,6 @@
+{
+  "name": "香港六合彩 - 即時開彩 Live!",
+  "description": "香港六合彩(Mark Six)即時開獎視頻手機應用，提供現場攪珠直播、落球語音播報、擋牌通知、智能小鍵盤核獎、最新100期開獎記錄、歷史走勢圖表與API自定義接入。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
